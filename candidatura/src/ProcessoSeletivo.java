@@ -1,10 +1,9 @@
-
+package candidatura;
 import java.util.concurrent.ThreadLocalRandom;
-
 public class ProcessoSeletivo {
     public static void main(String[] args) {
 
-    }
+    } 
 
     static void imprimirSelecionados() {
         String[] candidatos = { "FELIPE", "MÁRCIA", "JULIA", "PAULO", "AUGUSTO", "MÔNICA", "FABRÍCIO", "MIRELA" };
